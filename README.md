@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi!👋 I'm Adjie
 
-<!--
-**Aji2006/Aji2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 I am pursuing Data Science and exploring Python, C++, and SQL.
+- 💼 I am passionate about machine learning, AI, and data analytics.
+- 🛠️ My current focus is on building projects to improve my skills.
 
-Here are some ideas to get you started:
+## 🚀 My Tech Stacks:
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajiii/)
+[![Email](https://img.shields.io/badge/Email-d14836?style=flat&logo=gmail&logoColor=white)](adjie0915@gmail.com)
