@@ -10,10 +10,14 @@
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 - ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+---
+
 ## 🔥 **What I'm Passionate About**
 - 🤖 **Machine Learning & AI**
 - 📊 **Data Analytics**
 - 🛠️ **Building Real-World Projects**
+
+---
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajiii/)
