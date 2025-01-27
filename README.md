@@ -28,3 +28,8 @@
 
 ## 📊 **GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aji2006&show_icons=true&theme=radical)
+
+---
+
+## **Build Stats**
+[![Build Status](https://travis-ci.org/username/repository.svg?branch=main)](https://travis-ci.org/Aji2006/repository)
