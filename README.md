@@ -32,4 +32,4 @@
 ---
 
 ## **Build Stats**
-[![Build Status](https://travis-ci.org/username/repository.svg?branch=main)](https://travis-ci.org/Aji2006/repository)
+[![Build Status](https://travis-ci.org/Aji2006/repository.svg?branch=main)](https://travis-ci.org/Aji2006/repository)
