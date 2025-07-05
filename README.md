@@ -1,9 +1,11 @@
 <img src="Assets/banner.png" alt="GitHub Banner" width="100%" />
 
-# **💫 About Me:**
-- Studies Informatics at [Universitas Tanjungpura](https://untan.ac.id/).
-- Passionate at Machine Learning, Computer Vision, NLP, Data Analysis and Low Level Programming
-I enjoy working at the intersection of research and application, and I’m always eager to learn, contribute to open-source projects, and collaborate with other passionate minds in the tech community.<br><br>Feel free to check out my projects, connect with me, or reach out for collaborations!
+# **About Me**
+- 📚 Studies Informatics at [Universitas Tanjungpura](https://untan.ac.id/)
+- 🤖 Passionate about Machine Learning, Computer Vision, NLP, Data Analysis, and Low-Level Programming
+- 🔬 I enjoy working at the intersection of research and application
+- 🌱 Always eager to learn, contribute to open-source projects, and collaborate with other passionate minds in the tech community
+Feel free to check out my projects, connect with me, or reach out for collaborations!
 
 
 ## 🌐 Socials:
