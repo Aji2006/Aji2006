@@ -16,3 +16,4 @@ Hi, I'm Adjie Prasetya — a passionate Data Scientist with a strong enthusiasm 
 [![](https://visitcount.itsvg.in/api?id=Aji2006&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Adjie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aji2006)](https://github.com/Aji2006/github-readme-stats)
