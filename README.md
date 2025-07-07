@@ -19,4 +19,4 @@ Feel free to check out my projects, connect with me, or reach out for collaborat
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Aji2006&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Aji2006&theme=tokyonight&rank=SECRET,SSS,SS,S,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aji2006&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
