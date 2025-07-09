@@ -20,3 +20,11 @@ Feel free to check out my projects, connect with me, or reach out for collaborat
 [![GitHub Streak](https://streak-stats.demolab.com?user=Aji2006&theme=tokyonight)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Aji2006&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aji2006/Aji2006/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aji2006/Aji2006/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aji2006/Aji2006/output/pacman-contribution-graph.svg">
+</picture>
+
+###
